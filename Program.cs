@@ -6,7 +6,15 @@ namespace Tabuada
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int numero;
+            //Limpando a tela de console
+            Console.Clear();
+            Console.WriteLine("#############################################");
+            Console.WriteLine("#        Programa de Tabuada     #");
+            Console.WriteLine("#############################################");
+            Console.WriteLine();
+            Console.WriteLine("Digite um número > ");
+            )
         }
     }
 }
